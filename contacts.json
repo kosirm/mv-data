@@ -49,23 +49,6 @@
 					"email": "leaverou@mit.edu"
 				}
 			]
-		},
-		{
-			"picture": "https://cdn.rawgit.com/kosirm/mv-data/74f6ad258d44d71f71e5ac12724cbbda904f4163/images/maintenance-support.png",
-			"name": "Simply Guide Me",
-			"affiliation": "Online Psychotherapy",
-			"phoneNumber": [
-				{
-					"name": "Mobile",
-					"telephone": "+3853590770"
-				}
-			],
-			"emailAddress": [
-				{
-					"name": "Email",
-					"email": "admin@simplyguide.me"
-				}
-			]
 		}
 	],
 	"@context": "http://schema.org/"
