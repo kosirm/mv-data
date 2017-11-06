@@ -1,0 +1,72 @@
+{
+	"contact": [
+		{
+			"picture": "https://cdn.rawgit.com/kosirm/dreambox/f985bf9ae02add2732a82419f4c434990691b779/images/SPAvatar.PNG",
+			"name": "Milan Košir",
+			"affiliation": "Developer",
+			"phoneNumber": [
+				{
+					"name": "Mobile",
+					"telephone": "+385 95 359 0770"
+				}
+			],
+			"emailAddress": [
+				{
+					"name": "Email",
+					"email": "kosir.milan@gmail.com"
+				}
+			]
+		},
+		{
+			"picture": "https://cdn.rawgit.com/kosirm/dreambox/392cf18e6d19a22cfd32917a7bd952d809a49348/images/Lidija.jpg",
+			"name": "Lidija Košir",
+			"phoneNumber": [
+				{
+					"name": "Mobile",
+					"telephone": "+385 97 64 77 541"
+				}
+			],
+			"emailAddress": [
+				{
+					"name": "Email",
+					"email": "kosir.lidija@gmail.com"
+				}
+			]
+		},
+		{
+			"picture": "https://pbs.twimg.com/profile_images/584963092120899586/TxkxQ7Y5_400x400.png",
+			"name": "Lea Verou",
+			"affiliation": "MIT CSAIL",
+			"phoneNumber": [
+				{
+					"name": "Mobile",
+					"telephone": "555-123-4567"
+				}
+			],
+			"emailAddress": [
+				{
+					"name": "Email",
+					"email": "leaverou@mit.edu"
+				}
+			]
+		},
+		{
+			"picture": "https://cdn.rawgit.com/kosirm/mv-data/74f6ad258d44d71f71e5ac12724cbbda904f4163/images/maintenance-support.png",
+			"name": "Simply Guide Me",
+			"affiliation": "Online Psychotherapy",
+			"phoneNumber": [
+				{
+					"name": "Mobile",
+					"telephone": "+3853590770"
+				}
+			],
+			"emailAddress": [
+				{
+					"name": "Email",
+					"email": "admin@simplyguide.me"
+				}
+			]
+		}
+	],
+	"@context": "http://schema.org/"
+}
