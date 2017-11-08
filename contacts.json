@@ -14,6 +14,10 @@
 				{
 					"name": "Email",
 					"email": "kosir.milan@gmail.com"
+				},
+				{
+					"name": "Email",
+					"email": "milan@simplyguide.me"
 				}
 			]
 		},
@@ -31,8 +35,7 @@
 					"name": "Email",
 					"email": "kosir.lidija@gmail.com"
 				}
-			],
-			"affiliation": "Psychotherapyst"
+			]
 		},
 		{
 			"picture": "https://pbs.twimg.com/profile_images/584963092120899586/TxkxQ7Y5_400x400.png",
