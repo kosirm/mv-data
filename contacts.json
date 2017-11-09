@@ -57,6 +57,22 @@
 					"email": "leaverou@mit.edu"
 				}
 			]
+		},
+		{
+			"name": "Mirjan",
+			"affiliation": "Designer",
+			"phoneNumber": [
+				{
+					"name": "Mobile",
+					"telephone": "+385 97 1234567"
+				}
+			],
+			"emailAddress": [
+				{
+					"name": "Email",
+					"email": "mimistoja@gmail.com"
+				}
+			]
 		}
 	],
 	"@context": "http://schema.org/"
